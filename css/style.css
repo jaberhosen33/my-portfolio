@@ -1,0 +1,172 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.food{
+    color: rgb(236, 120, 43);
+}
+.main_header{
+    display: flex;
+
+}
+.heder_frist p{
+font-size: 12px;
+padding-top: 10px;
+
+}
+.heder_frist h1{
+    font-size: 60px;
+   padding-top: 100px;
+}
+.heder_frist{
+    width: 40%;
+    padding-left: 80px;
+
+}
+.heder_frist a{
+    padding: 10px 20px;
+
+  color: rgb(247, 240, 240);
+  text-decoration: none;
+  font-size: 15px;
+  border-radius: 5%;
+  background-image: linear-gradient(rgb(243, 83, 83),rgba(209, 161, 28, 0.904) );
+    
+    
+}
+.header_secound{
+    width: 40%;
+    padding-left: 80px;
+    padding-top: 50px;
+}
+.header_secound img{
+    width: 80%;
+}
+.main-body{
+    display: flex;
+    background-image: url(../img/shapes/7.png);
+    background-repeat: no-repeat;
+  
+}
+.body-img{
+    width: 40%;
+}
+.body-img img{
+    height: 90%;
+    width: 40%;
+    padding-left: 80px;
+    padding-top: 50px;
+}
+.body-item{
+    padding-top: 50px;
+    padding-left: 100px;
+    width: 40%;
+}
+.body-item h1{ 
+    font-weight: 800;
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+.body-item p{
+    padding-bottom: 10px;
+}
+.body-item a{
+    padding: 10px 20px;
+
+    color: rgb(247, 240, 240);
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 20px;
+    background-image: linear-gradient(rgb(243, 83, 83),rgba(209, 161, 28, 0.904) );
+     padding-bottom: 10px; 
+      
+}
+.recipie{
+    text-align: center;
+}
+.recipie h1{
+    font-size: 50px;
+padding-top: 15px;
+}
+.recipie p{
+    text-align: center;
+    padding-bottom: 10px;
+   
+
+}
+.all-food{
+    display: flex;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.food-item{
+    width: 20%;
+    margin-left: 70px;
+    border: 15px solid white;
+    box-shadow: 5px 5px 5px 5px rgba(41, 35, 35, 0.2);
+    border-radius: 25px;
+   
+   
+
+}
+.food-item2{
+    width: 20%;
+   margin-left: 100px;
+    border: 15px solid white;
+    box-shadow: 5px 5px 5px 5px rgba(41, 35, 35, 0.2);
+
+    border-radius: 25px;
+   
+   
+
+}
+.food-item3{
+    width: 20%;
+   margin-left: 100px;
+    border: 15px solid white;
+    box-shadow: 5px 5px 5px 5px rgba(41, 35, 35, 0.2);
+    border-radius: 25px;
+   
+   
+
+}
+
+.food-item-img img{
+ height: 50%;
+ width: 100%;
+}
+
+
+
+.media{
+    display: flex;
+    width: 80%;
+    margin-left: 110px;
+    margin-top: 60px;
+    box-shadow: 5px 3px 3px 5px rgba(41, 35, 35, 0.2);
+    border-radius: 25px;
+
+}
+.media-activi{
+    margin-left: 180px;
+}
+.media-activi h3{
+    font-size: 30px;
+
+}
+footer{
+    height: 160px;
+    background-color: rgba(14, 9, 37, 0.932);
+    margin-top: 70px;
+}
+footer h1{
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+footer p{
+    text-align: center;
+}
+footer span{
+    color: rgb(236, 120, 43);
+}
